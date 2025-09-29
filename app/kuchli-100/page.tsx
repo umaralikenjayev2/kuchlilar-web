@@ -170,6 +170,7 @@ export default function Kuchli100Page() {
           >
             Ulashish matnini nusxalash
           </button>
+          <h1 className="text-3xl font-bold text-emerald-610">Kuchli 100 Kun 🚀</h1>
         </div>
       </div>
     </div>
